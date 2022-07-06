@@ -18,3 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vtrcosta25&show_icons=true&theme=dracula&title_color=5e00bd&text_color=02b680&locale=en&layout=compact" alt="vtrcosta25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtrcosta25&show_icons=true&theme=dark&title_color=5e00bd&text_color=02b680&bg_color=000000&cache_seconds=1800&locale=en" alt="vtrcosta25" /></p>
+
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
