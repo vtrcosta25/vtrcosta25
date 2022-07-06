@@ -1,5 +1,5 @@
-<h1 align="center">Hello, my name is Victor Rodrigues da Costa</h1>
-<h3 align="center">Welcome to my Github profile!</h3>
+# Hello, my name is Victor Rodrigues da Costa 
+Welcome to my Github profile! 
 
 - Atualmente estudando HTML, CSS, Javascript, ReactJS. **HTML, CSS, Javascript, ReactJS.**
 
