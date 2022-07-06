@@ -1,7 +1,6 @@
 <h1 align="center">Hello, my name is Victor Rodrigues da Costa</h1>
 <h3 align="center">Welcome to my Github profile!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vtrcosta25&label=Profile%20views&color=0079fa&style=flat" alt="vtrcosta25" /> </p>
 
 - Atualmente estudando HTML, CSS, Javascript, ReactJS. **HTML, CSS, Javascript, ReactJS.**
 
