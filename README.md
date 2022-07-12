@@ -1,7 +1,7 @@
 # Hello, my name is Victor Rodrigues da Costa 
 Welcome to my Github profile! 
 
-- Atualmente estudando HTML, CSS, Javascript, ReactJS. **HTML, CSS, Javascript, ReactJS.**
+- Atualmente estudando **HTML, CSS, Javascript, ReactJS.**
 
 - Em transição de carreira, **procurando minha primeira oportunidade como desenvolvedor.**
 
