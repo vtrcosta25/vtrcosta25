@@ -1,4 +1,4 @@
-# Hello, my name is Victor Rodrigues da Costa 
+# Hello, I'm Victor.
 Welcome to my Github profile! 
 
 - Atualmente estudando **HTML, CSS, Javascript, ReactJS.**
